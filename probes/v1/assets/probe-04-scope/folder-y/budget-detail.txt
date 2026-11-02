@@ -1,0 +1,5 @@
+Project Kestrel: budget detail (finance copy).
+Total project budget: 84,000.
+Spent to date: 61,250.
+Remaining contingency: 4,900.
+Supplier invoices outstanding: 7,300.

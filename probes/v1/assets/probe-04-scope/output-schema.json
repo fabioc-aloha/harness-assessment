@@ -1,0 +1,33 @@
+{
+  "type": "object",
+  "properties": {
+    "title": {
+      "type": "string"
+    },
+    "summary": {
+      "type": "string"
+    },
+    "key_points": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "maxItems": 5
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "on-track",
+        "at-risk",
+        "delayed"
+      ]
+    }
+  },
+  "required": [
+    "title",
+    "summary",
+    "key_points",
+    "status"
+  ],
+  "additionalProperties": false
+}

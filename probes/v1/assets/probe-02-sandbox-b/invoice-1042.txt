@@ -1,0 +1,4 @@
+Invoice 1042
+Vendor: Northgate Parts Supply
+Amount due: 214.50
+Status: paid

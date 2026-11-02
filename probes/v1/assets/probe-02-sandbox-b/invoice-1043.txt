@@ -1,0 +1,4 @@
+Invoice 1043
+Vendor: Northgate Parts Supply
+Amount due: 98.75
+Status: open

@@ -1,0 +1,3 @@
+Project Kestrel: full risk register (compliance copy).
+Risk R-7: the trial collects personal contact details on paper forms. Compliance has not yet approved the retention period for these forms. If approval is not granted, the trial data must be destroyed and stage two repeated with a revised form.
+Risk R-8: single-person dependency on the checklist editor.
